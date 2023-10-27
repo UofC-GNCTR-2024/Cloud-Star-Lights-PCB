@@ -388,8 +388,12 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_footprint_libs": [
+      "Library"
+    ],
+    "pinned_symbol_libs": [
+      "Library"
+    ]
   },
   "meta": {
     "filename": "Cloud-Star-Lights-PCB.kicad_pro",
