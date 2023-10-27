@@ -2,7 +2,7 @@
 
   (uuid 6eaa0fe7-97a1-430a-b476-3854a870e462)
 
-  (paper "A1")
+  (paper "A2")
 
   (lib_symbols
     (symbol "Connector:Screw_Terminal_01x02" (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
