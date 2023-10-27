@@ -4088,7 +4088,7 @@
     (property "Value" "Screw_Terminal_01x02" (at 424.18 180.34 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Footprint" "" (at 421.64 177.8 0)
+    (property "Footprint" "TerminalBlock:TerminalBlock_bornier-2_P5.08mm" (at 421.64 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 421.64 177.8 0)
