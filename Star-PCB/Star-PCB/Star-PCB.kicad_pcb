@@ -444,6 +444,12 @@
 
   (gr_rect (start 124.46 33.02) (end 160.02 68.58)
     (stroke (width 0.1) (type default)) (fill none) (layer "Edge.Cuts") (tstamp aa2468b5-7ca7-43a7-807a-ffc32f209654))
+  (gr_text "-" (at 139.7 53.34) (layer "F.SilkS") (tstamp 5e7d3983-aaf3-4304-927b-7c2bbd8458bf)
+    (effects (font (size 1 1) (thickness 0.15)) (justify right bottom))
+  )
+  (gr_text "+" (at 142.24 53.34) (layer "F.SilkS") (tstamp b5d2c51b-3205-47ea-90cf-d3d3078b40b8)
+    (effects (font (size 1 1) (thickness 0.15)) (justify left bottom))
+  )
 
   (segment (start 142.24 39.3081) (end 141.8169 39.7312) (width 0.25) (layer "F.Cu") (net 8) (tstamp 08ebda40-dc87-4bf7-b3c4-be2d68cb60d8))
   (segment (start 130.9015 51.2231) (end 131 51.2231) (width 0.25) (layer "F.Cu") (net 8) (tstamp 1a5c11a0-67d2-4dcf-8790-accfc4643712))
@@ -457,7 +463,6 @@
   (via (at 158.0786 54.7731) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 8) (tstamp 0b55469c-916d-4f15-b66c-b4c3ec64f232))
   (via (at 142.24 39.3081) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 8) (tstamp 0d52d7bb-e843-40c7-9b5b-ae759fa8fe51))
   (via (at 130.4784 50.8) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 8) (tstamp 42b0feb4-4c70-468a-b0b0-3e1a51333405))
-  (via (at 218 33) (size 0.8) (drill 0.4) (layers "F.Cu" "B.Cu") (net 8) (tstamp a95e9c20-64e2-4e81-beb8-40699f1e6692))
 
   (zone (net 1) (net_name "Net-(J1-Pin_2)") (layer "F.Cu") (tstamp c91d894e-5f66-4f46-9903-f80aef072aaa) (hatch edge 0.5)
     (priority 1)
