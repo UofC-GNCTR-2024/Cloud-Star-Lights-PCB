@@ -1327,6 +1327,11 @@
     (effects (font (size 6 6)) (justify left bottom))
     (uuid 6c5462e2-a720-4eb9-8ca5-499e2af714fa)
   )
+  (text "TODO: these control labels should\nhave the color included in them"
+    (at 203.2 100.33 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 75dd0366-4e20-4b9d-a597-6e352372f8ef)
+  )
   (text "Star Notes:\n - IC has max 120ma per channel" (at 34.29 46.99 0)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 7d7ea15d-e502-4e4e-86f2-b52b7b37753f)

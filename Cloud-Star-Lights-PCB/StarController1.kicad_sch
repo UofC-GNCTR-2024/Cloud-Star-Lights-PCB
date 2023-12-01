@@ -667,6 +667,12 @@
     (uuid fd314f87-4311-4c61-9255-6e24e69ec468)
   )
 
+  (text "FIXME: use yellow fill on IC symboles\nFIXME: What're the '*' in the labels on the IC?\nFIXME: Symbol is too wide"
+    (at 128.27 148.59 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0af02b12-f0db-4a7d-82a0-6192f467d6fe)
+  )
+
   (hierarchical_label "A2" (shape input) (at 113.03 104.14 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right))
     (uuid 0ced9b95-b739-4036-8f0b-06bbbe3c81a3)
